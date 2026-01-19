@@ -10,4 +10,3 @@
 login failed
 </body>
 </html>
-config
